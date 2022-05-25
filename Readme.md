@@ -42,11 +42,8 @@
 |        1050        |    DDD   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1050/URI-1050/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1049/src/Main.java)
 |        1051        |    Imposto de Renda   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1051/URI-1051/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1051/src/Main.java)
 |        1052        |    Mês   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1052/URI-1052/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/tree/master/Java/URI-1052)
-
-
 |        1059        |    Números Pares   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1059/URI-1059/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1059/src/Main.java)
 |        1060        |    Números Positivos   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1060/URI-1060/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/tree/master/Java/URI-1060)
-
 |        1061        |    Tempo de um Evento    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1061/URI-1061/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1061/src/Main.java)
 |        1064        |    Positivo e Média   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1064/URI-1064/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1064/src/Main.java)
 |        1065        |    Pares entre Cinco Números   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1065/URI-1065/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1065/src/Main.java)
