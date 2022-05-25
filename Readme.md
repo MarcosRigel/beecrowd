@@ -2,7 +2,7 @@
 
 ![github-smal](https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png)
 
-| **URI** | **Nome do Problema** | **Linguagem** |
+| **BEE** | **Nome do Problema** | **Linguagem** |
 |:------------------:|----------------|:--------:|
 |        1000        |  Hello World!  |     [Csharp](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1001%20-%20Extremamente%20B%C3%A1sico.c) \| [Java](https://github.com/MarcosRigel/URI-Problemas-Resolvidos/blob/master/Java/URI-1000/src/Program.java) |
 |        1001        |    Extremamente Básico   |     [Csharp](https://github.com/MarcosRigel/URI-Problemas-Resolvidos/blob/master/Csharp/URI-1001/URI-1001/Program.cs) \| [Java](https://github.com/MarcosRigel/URI-Problemas-Resolvidos/blob/master/Java/URI-1001/src/Program.java)    |
@@ -60,7 +60,7 @@
 |        1094        |    Experiências    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1094/URI-1094/Program.cs)
 |        1096        |    Sequencia IJ 2    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1096/URI-1096/Program.cs)
 |        1097        |    Sequencia IJ 3    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1097/URI-1097/Program.cs)
-|        1101        |    Sequencia de Números e Soma   |     [Csharp]
+|        1101        |    Sequencia de Números e Soma   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/BEE-1101/BEE-1101/Program.cs)
 |        1114        |    Senha Fixa    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1114/URI-1114/Program.cs)
 |        1115        |    Quadrante    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1115/URI-1115/Program.cs)
 |        1116        |    Dividindo X por Y   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1116/URI-1116/Program.cs)
