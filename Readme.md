@@ -1,4 +1,4 @@
-# Welcome to beecrowd 🚀
+# Exercícios Resolvidos da plataforma beecrowd 🚀
 
 ![github-smal](https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png)
 
@@ -50,16 +50,16 @@
 |        1066        |    Pares, Ímpares, Positivos e Negativos    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1066/URI-1066/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1066/src/Main.java)
 |        1067        |    Números Ímpares    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1067/URI-1067/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1067/src/Main.java)
 |        1070        |    Seis Números Ímpares    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1070/URI-1070/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1070/src/Main.java)
-|        1071        |    Soma de Impares Consecutivos I    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1071/URI-1071/Program.cs) \| [Java]
+|        1071        |    Soma de Impares Consecutivos I    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1071/URI-1071/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1071/src/Main.java)
 |        1072        |    Intervalo 2    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1072/URI-1072/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1072/src/Main.java)
-|        1073        |     Quadrado de Pares     |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1073/URI-1073/Program.cs) \| [Java]
+|        1073        |     Quadrado de Pares     |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1073/URI-1073/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1073/src/Main.java)
 |        1074        |    Par ou Ímpar    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1074/URI-1074/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1074/src/Main.java)
-|        1075        |    Resto 2    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1075/URI-1075/Program.cs) \| [Java]
+|        1075        |    Resto 2    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1075/URI-1075/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1075/src/Main.java)
 |        1079        |    Médias Ponderadas   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1079/URI-1079/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1079/src/Main.java)
 |        1080        |    Maior e Posição    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1080/URI-1080/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1080/src/URI1080.java)
 |        1094        |    Experiências    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1094/URI-1094/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1094/src/Main.java)
-|        1096        |    Sequencia IJ 2    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1096/URI-1096/Program.cs) \| [Java]
-|        1097        |    Sequencia IJ 3    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1097/URI-1097/Program.cs) \| [Java]
+|        1096        |    Sequencia IJ 2    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1096/URI-1096/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1096/src/Main.java)
+|        1097        |    Sequencia IJ 3    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1097/URI-1097/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1097/src/Main.java)
 |        1101        |    Sequencia de Números e Soma   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/BEE-1101/BEE-1101/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1101/src/Main.java)
 |        1114        |    Senha Fixa    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1114/URI-1114/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1114/src/Main.java)
 |        1115        |    Quadrante    |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1115/URI-1115/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1115/src/Main.java)
@@ -68,18 +68,18 @@
 |        1118        |    Varias Notas com Validação   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1118/URI-1118/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1118/src/Main.java)
 |        1131        |    Grenais   |     [Csharp](https://github.com/MarcosRigel/beecrowd/tree/master/Csharp/URI-1131) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1118/src/Main.java)
 |        1132        |    Múltiplos de 13   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1132/URI-1132/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1132/src/Main.java)
-|        1133        |    Resto da Divisão   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1133/URI-1133/Program.cs)
-|        1134        |    Tipo de Combustível   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1134/URI-1134/Program.cs)
-|        1142        |    PUM   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1142/URI-1142/Program.cs)
-|        1143        |    Quadrado e ao Cubo   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1143/URI-1143/Program.cs)
-|        1144        |    Sequência Lógica   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1144/URI-1144/Program.cs)
-|        1145        |    Sequência Lógica 2   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1145/URI-1145/Program.cs)
-|        1146        |    Sequência Crescentes   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1146/URI-1146/Program.cs)
+|        1133        |    Resto da Divisão   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1133/URI-1133/Program.cs) 
+|        1134        |    Tipo de Combustível   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1134/URI-1134/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1134/src/Main.java)
+|        1142        |    PUM   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1142/URI-1142/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1142/src/Main.java)
+|        1143        |    Quadrado e ao Cubo   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1143/URI-1143/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1143/src/Main.java)
+|        1144        |    Sequência Lógica   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1144/URI-1144/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1144/src/Main.java)
+|        1145        |    Sequência Lógica 2   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1145/URI-1145/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1145/src/Main.java)
+|        1146        |    Sequência Crescentes   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1146/URI-1146/Program.cs) \|[Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1146/src/Main.java)
 |        1151        |    Fibonacci Fácil   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1151/URI-1151/Program.cs)
-|        1153        |    Fatorial Simples   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1153/URI-1153/Program.cs)
-|        1154        |    Idades   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1154/URI-1154/Program.cs)
+|        1153        |    Fatorial Simples   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1153/URI-1153/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1153/src/Main.java)
+|        1154        |    Idades   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1154/URI-1154/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1154/src/Main.java)
 |        1155        |    Sequência S   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1155/URI-1155/Program.cs)
 |        1156        |    Sequência S II   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1156/URI-1156/Program.cs)
-|        1157        |    Divisores I   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1157/URI-1157/Program.cs)
-|        1158        |    Soma de Ímpares Consecutivos III   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1158/URI-1158/Program.cs)
-|        1159        |    Soma de Pares Consecutivos   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1159/URI-1159/Program.cs)
+|        1157        |    Divisores I   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1157/URI-1157/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1157/src/Main.java)
+|        1158        |    Soma de Ímpares Consecutivos III   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1158/URI-1158/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1158/src/Main.java)
+|        1159        |    Soma de Pares Consecutivos   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1159/URI-1159/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1159/src/Main.java)
