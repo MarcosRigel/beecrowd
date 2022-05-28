@@ -84,5 +84,5 @@
 |        1158        |    Soma de Ímpares Consecutivos III   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1158/URI-1158/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1158/src/Main.java)
 |        1159        |    Soma de Pares Consecutivos   |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1159/URI-1159/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1159/src/Main.java)
 |        2165        |    Tuitando   |     [Csharp] \| [Java] \| [JavaScript](https://github.com/MarcosRigel/beecrowd/blob/master/JavaScript/BEE-2165.js)
-|        2747        |    Tuitando   |     [Csharp] \| [Java] \| [JavaScript](https://github.com/MarcosRigel/beecrowd/blob/master/JavaScript/BEE-2747.js)
-|        2950        |    Tuitando   |     [Csharp] \| [Java] \| [JavaScript](https://github.com/MarcosRigel/beecrowd/blob/master/JavaScript/BEE-2950.js)
+|        2747        |    Saída 1   |     [Csharp] \| [Java] \| [JavaScript](https://github.com/MarcosRigel/beecrowd/blob/master/JavaScript/BEE-2747.js)
+|        2950        |    As Duas Torres   |     [Csharp] \| [Java] \| [JavaScript](https://github.com/MarcosRigel/beecrowd/blob/master/JavaScript/BEE-2950.js)
