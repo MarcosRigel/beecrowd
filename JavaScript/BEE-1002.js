@@ -20,12 +20,9 @@ Entrada                         Saída
 150.00                          A=70685.7750
 */
 
-let input = gets().split(" "); 
-let n, x, y; 
+const pi = 3.14158;
+let raio = prompt();
 
-n =  parseInt(input[0]); 
-x =  parseInt(input[1]); 
-y =  parseInt(input[2]); 
+let area = pi * (raio * raio);
 
-let resultado = n / (x + y); 
-print(resultado.toFixed(2));
+console.log("A="+area);
