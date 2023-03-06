@@ -35,7 +35,7 @@ public class Main {
                 if (nome3.equals("hematofago")) {
                     System.out.println("pulga");
                 } else if(nome3.equals("herbivoro")) {
-                    System.out.println("largata");
+                    System.out.println("lagarta");
                 }
             } else if(nome2.equals("anelideo")) {
                 if (nome3.equals("hematofago")) {
