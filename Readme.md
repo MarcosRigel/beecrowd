@@ -4,7 +4,7 @@
 
 | **BEE** | **Nome do Problema** | **Linguagem** |
 |:------------------:|----------------|:--------:|
-|        1000        |  Hello World!  |     [Csharp](https://github.com/NadiaaOliverr/Uri-Problem-Solutions/blob/master/C/1001%20-%20Extremamente%20B%C3%A1sico.c) \| [Java](https://github.com/MarcosRigel/URI-Problemas-Resolvidos/blob/master/Java/URI-1000/src/Program.java) |
+|        1000        |  Hello World!  |     [Csharp](https://github.com/MarcosRigel/beecrowd/blob/master/Csharp/URI-1000/src/Program.java) \| [Java](https://github.com/MarcosRigel/URI-Problemas-Resolvidos/blob/master/Java/URI-1000/src/Program.java) |
 |        1001        |    Extremamente Básico   |     [Csharp](https://github.com/MarcosRigel/URI-Problemas-Resolvidos/blob/master/Csharp/URI-1001/URI-1001/Program.cs) \| [Java](https://github.com/MarcosRigel/URI-Problemas-Resolvidos/blob/master/Java/URI-1001/src/Program.java)    |
 |        1002        |    Área do Círculo   |     [Csharp](https://github.com/MarcosRigel/URI-Problemas-Resolvidos/blob/master/Csharp/URI-1002/URI-1002/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1002/src/Main.java) \| [JavaScript](https://github.com/MarcosRigel/beecrowd/blob/master/JavaScript/BEE-1002.js)
 |        1003        |    Soma Simples   |     [Csharp](https://github.com/MarcosRigel/URI-Problemas-Resolvidos/blob/master/Csharp/URI-1003/URI-1003/Program.cs) \| [Java](https://github.com/MarcosRigel/beecrowd/blob/master/Java/URI-1003/src/Main.java)
